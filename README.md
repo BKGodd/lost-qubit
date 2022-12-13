@@ -14,4 +14,4 @@ and gain access to a dungeon of sorts. After the qubit is found, return it to th
 the game. Along the way you may collect bonus items in your inventory, such as a strontium atom. 
 "God-mode" can also be activated with one of the action buttons, allowing you to float over any obstructions on the map.
 
-<img src="https://github.com/BKGodd/lost-qubit/images/mbed.png" width="200"/>
+<img src="https://github.com/BKGodd/lost-qubit/blob/main/images/mbed.png" width="200"/>
