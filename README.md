@@ -2,7 +2,7 @@
 
 ## Implementation
 The main character is controlled via an accelerometer (tilting the board), along with action buttons and a small LCD display.
-The game was developed with `C++`, utilizing a custom-built hash-map for fast graphical rendering.
+The game was developed with `C` and `C++`, utilizing a custom-built hash-map for fast graphical rendering.
 With the pre-compiled binary `RPG.LPC1768.bin`, you can try it out yourself (assuming you have an `MBED` microcontroller 
 with the appropriate hardware).
 
