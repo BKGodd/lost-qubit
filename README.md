@@ -1,3 +1,5 @@
+![image](./mbed.png)
+
 # The Lost Qubit
 This is a RPG game developed on `ARM` for `MBED`, using `C` and `C++`.
 
